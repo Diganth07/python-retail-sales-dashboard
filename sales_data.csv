@@ -1,0 +1,13 @@
+date,product,category,quantity,unit_price,region
+2026-01-05,Wireless Mouse,Electronics,5,24.99,North
+2026-01-12,Desk Lamp,Home,8,32.50,South
+2026-01-19,Notebook,Stationery,20,3.99,East
+2026-02-03,Keyboard,Electronics,4,59.99,West
+2026-02-10,Coffee Mug,Home,12,12.00,North
+2026-02-21,Pen Set,Stationery,15,8.50,South
+2026-03-02,Headphones,Electronics,3,89.99,East
+2026-03-11,Bookshelf,Home,2,145.00,West
+2026-03-22,Sketchbook,Stationery,10,14.95,North
+2026-04-04,Webcam,Electronics,4,74.50,South
+2026-04-15,Throw Pillow,Home,9,21.00,East
+2026-04-24,Markers,Stationery,11,6.99,West
