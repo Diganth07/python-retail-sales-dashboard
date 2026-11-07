@@ -20,3 +20,9 @@ CSV or output image.
 
 The CSV must include `date` (YYYY-MM-DD), `product`, `category`, `quantity`,
 `unit_price`, and `region`. A sample dataset is included.
+
+## Project QR Code
+
+Scan to open this GitHub repository:
+
+![QR code linking to this repository](qr-code.png)
